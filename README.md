@@ -1,5 +1,5 @@
 # mastering-Kubernetes
-This public repository contains the artifacts to learn Kubernetes.
+This repository contains the artifacts to learn Kubernetes.
 
 That sounds like an excellent plan! You're aiming for both theoretical knowledge and hands-on practice with Kubernetes, using a Spring Boot (SB) application backed by a PostgreSQL database in a local Kind cluster. I'll take you step by step through everything, linking theory to practice using this application as an example.
 
